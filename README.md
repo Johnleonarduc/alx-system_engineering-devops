@@ -1,1 +1,1 @@
-This Repository is for Shell Basics
+home folder
